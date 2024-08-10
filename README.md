@@ -8,4 +8,4 @@ Gridded population datasets for the Qinghai-Tibet Plateau in 2020
 TibetPop-Team
 
 # Research Design
-![workflow7](https://github.com/TibetPop-Team/TibetPop-Code/assets/167882789/16be735c-094d-4f88-a990-ae33bbe08b16)
+![workflow8](https://github.com/user-attachments/assets/2cfa9205-80f2-4b92-a3cb-c23a35fd13c4)
